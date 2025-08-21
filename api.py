@@ -12,3 +12,5 @@ async def search_game(word: str):
 # wget -qO- http://127.0.0.1:8000/search_name/star
 #  wget -qO- http://127.0.0.1:8000/search_name/Suns | jq -c '.[]'
 # uvicorn api_search_keybin:app --reload
+
+#### 
